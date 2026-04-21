@@ -1,0 +1,6 @@
+{
+  "name": "Telegram Bot Hub",
+  "description": "A glassmorphism-style dashboard for navigating Telegram bots and viewing user profiles within the Telegram Mini App environment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
